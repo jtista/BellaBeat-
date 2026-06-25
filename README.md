@@ -108,11 +108,13 @@ Self-selected FitBit users may not represent Bellabeat's actual customer base
 
 
 ## 7. How to Reproduce This Analysis
-├── BellaBeat.ipynb              # Python data cleaning (Google Colab)
-├── bellabeat_analysis.sql       # SQL analysis queries
-├── Bellabeat_Dashboard.pbix     # Power BI dashboard file
-├── dashboard_screenshot.png     # Dashboard preview image
-└── README.md                    # Project overview (this file)
+| File | Description |
+|---|---|
+| BellaBeat.ipynb | Python data cleaning (Google Colab) |
+| bellabeat_analysis.sql | SQL analysis queries |
+| Bellabeat_Dashboard.pbix | Power BI dashboard file
+| dashboard_screenshot.png | Dashboard preview image |
+| README.md | Project overview (this file) |
 
 ## Author
 
